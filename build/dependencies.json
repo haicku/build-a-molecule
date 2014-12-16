@@ -1,0 +1,71 @@
+{
+  "sherpa": {
+    "sha": "883cbc33dac82a7146c8bd4f66633097d9b62c4c",
+    "branch": "master"
+  },
+  "vibe": {
+    "sha": "1df0fd08d6c312b628e8f2006f8c7466d0ab1d7f",
+    "branch": "master"
+  },
+  "vegas": {
+    "sha": "414c876a0ea73cbfd9a60162e4114a28f0dad703",
+    "branch": "jgp"
+  },
+  "sun": {
+    "sha": "1ae2669e10ec9370721b64cc41bda78c14c3a0c1",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "e867171adea6bfb7ec5fcfe78668c67b22a04e5b",
+    "branch": "jgp"
+  },
+  "scenery": {
+    "sha": "267034d8a97d8cb3d9e30e9a1a2956f2b60de656",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "1bfd46f1f42c6cb305ba70f281d195211bc4ac00",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "f85bb6811986ce5d9cc0b3cfae7f258b02557701",
+    "branch": "master"
+  },
+  "nitroglycerin": {
+    "sha": "53ec50a4c9ad9658966a3c6ea0536275d6a717ac",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "c262daa0938f79862e5ef5cf6780197091d9b6d6",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "7f13613a077b9a6783d89d1bc2ec9ac6ae1325e7",
+    "branch": "jgp"
+  },
+  "dot": {
+    "sha": "500ba1b9d16de1d069e921d5c64309acdac7e93d",
+    "branch": "master"
+  },
+  "brand": {
+    "sha": "b0ed863f99d93c7a4912b3b4010a011aa1f3d05c",
+    "branch": "jgp"
+  },
+  "axon": {
+    "sha": "37c22f512524abfd3b4e4b15825d59a3546f8782",
+    "branch": "master"
+  },
+  "assert": {
+    "sha": "e4595f5eae375c15fa9aaba9511c52dbc1b0f2c6",
+    "branch": "master"
+  },
+  "chipper": {
+    "sha": "86e148435d8333769918040167155c498797b9d0",
+    "branch": "master"
+  },
+  "build-a-molecule": {
+    "sha": "93543e428a340495d104c6074d7435dc7c52e21a",
+    "branch": "jgp"
+  },
+  "comment": "# build-a-molecule 0.0.0-dev.11 Wed Nov 26 2014 11:26:18 GMT+0100 (CET)"
+}

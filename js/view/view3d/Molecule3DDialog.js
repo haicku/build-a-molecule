@@ -121,7 +121,7 @@ define( function( require ) {
       }
     } );
     buttonHolder.touchArea = Shape.bounds( buttonHolder.localBounds.dilated( 20 ) );
-    this.addChild( buttonHolder );
+    //this.addChild( buttonHolder );
 
     /*---------------------------------------------------------------------------*
     * Close button
